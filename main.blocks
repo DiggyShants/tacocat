@@ -119,23 +119,23 @@
 ................................................................................................................................................................
 ................................................................................................................................................................
 ................................................................................................................................................................
-`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image2"}}</data></shadow></value><next><block type="tilemap_editor" id="rJy@n9!SMc`@?sm3Z9PN"><field name="tilemap">tilemap`level1`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level1"}}</data><next><block type="gamesetbackgroundcolor" id="C=+uYF.Z4YW6ws}+?}G*"><value name="color"><shadow type="colorindexpicker" id="K[@1%u~V5k8KSh#Kd}*3"><field name="index">9</field></shadow></value><next><block type="variables_set" id="_x@=%tQ%{#rxi.]-eMZ3"><field name="VAR" id="9_cRzs~f@t(:H~L;Zo9D">cat</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="~XsF0PoXx^:PSEZcvhE0"><value name="img"><shadow type="screen_image_picker" id="G=u/wmp.dXhO_R4/mlkm"><field name="img">img`
-. . . . . . f f f f . . . . . . 
-. . . . f f f 2 2 f f f . . . . 
-. . . f f f 2 2 2 2 f f f . . . 
-. . f f f e e e e e e f f f . . 
-. . f f e 2 2 2 2 2 2 e e f . . 
-. . f e 2 f f f f f f 2 e f . . 
-. . f f f f e e e e f f f f . . 
-. f f e f b f 4 4 f b f e f f . 
-. f e e 4 1 f d d f 1 4 e e f . 
-. . f e e d d d d d d e e f . . 
-. . . f e e 4 4 4 4 e e f . . . 
-. . e 4 f 2 2 2 2 2 2 f 4 e . . 
-. . 4 d f 2 2 2 2 2 2 f d 4 . . 
-. . 4 4 f 4 4 5 5 4 4 f 4 4 . . 
-. . . . . f f f f f f . . . . . 
-. . . . . f f . . f f . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image2"}}</data></shadow></value><next><block type="tilemap_editor" id="rJy@n9!SMc`@?sm3Z9PN"><field name="tilemap">tilemap`level1`</field><data>{"commentRefs":[],"fieldData":{"tilemap":null}}</data><next><block type="gamesetbackgroundcolor" id="C=+uYF.Z4YW6ws}+?}G*"><value name="color"><shadow type="colorindexpicker" id="K[@1%u~V5k8KSh#Kd}*3"><field name="index">9</field></shadow></value><next><block type="variables_set" id="_x@=%tQ%{#rxi.]-eMZ3"><field name="VAR" id="9_cRzs~f@t(:H~L;Zo9D">cat</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="~XsF0PoXx^:PSEZcvhE0"><value name="img"><shadow type="screen_image_picker" id="G=u/wmp.dXhO_R4/mlkm"><field name="img">img`
+e e e e e e e e e e e e e e e e 
+. e e e e e e e e e e e e e e . 
+. f e e e e e e e e e e e e f . 
+. f . e f e e e e e e f e . f . 
+. f . . f e e e e e e f . . f . 
+. f . . f f f f f f f f . f f . 
+. f f f f f 5 f f 5 f f f f . . 
+. . f f f f f f f f f f f . . . 
+. . . . . f f f f f f f . . . . 
+. . . . . . f f f f f f . . . . 
+. . . . . . f f f f f f . . . . 
+. . . . . . f f f f f f . . . . 
+. . . . . . . f f f f f . . . . 
+. . . . . . f f f f f f . . . . 
+. . . . . f f . . . . f . . . . 
+. . . . f f . . . . f f . . . . 
 `</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image4"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="qVv@FbMC._d}C534VY8l"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="variables_set" id="$GEb/9gRod]Lzf:)e7U6"><field name="VAR" id="W]Il19ndE2.Czr)/71;*">taco</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="o=nd`x@VQ)~[WXZD,m~r"><value name="img"><shadow type="screen_image_picker" id=";x9?kb+?|swuu/F9Mnp*"><field name="img">img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . 5 5 5 . . 
